@@ -10,6 +10,13 @@
 
 The interface is based on the latest Amazon Prime Video redesigns, offering a clean and minimalist design.
 
+### Inspiration
+
+<p align="middle">
+  <img width="48%" src="https://tvline.com/wp-content/uploads/2022/07/new-prime-video-ui-1.jpg">
+  <img width="48%" src="https://m.media-amazon.com/images/I/B1HVIxbegjL.png">
+</p>
+
 ### Features
 
 * Minimalist navigation bars
