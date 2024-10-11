@@ -1,14 +1,20 @@
 # Pixel-Prime Theme
 
-![BUILT WITH](https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-cd6133?labelColor=ff793f&style=for-the-badge&logoColor=f0f0f0)
-[![][made-with]][gimp] &ensp;
-[![][download-pixel-prime]][pixel-prime]
-
-[gimp]: https://www.gimp.org/
-[made-with]: https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto&label=Made%20With
-
-[pixel-prime]: https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/releases
-[download-pixel-prime]: https://img.shields.io/badge/Download%20🡇-35BF5C?style=for-the-badge
+<div align = center>
+  
+  ![BUILT WITH](https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-cd6133?labelColor=ff793f&style=for-the-badge&logoColor=f0f0f0)
+  [![][made-with]][gimp]
+  
+  [gimp]: https://www.gimp.org/
+  [made-with]: https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto&label=Made%20With
+  
+  
+  [![][download-pixel-prime]][pixel-prime]
+  
+  [pixel-prime]: https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/releases  
+  [download-pixel-prime]: https://img.shields.io/badge/Download%20🡇-35BF5C?style=for-the-badge
+  
+</div>
 
 ## About
 
@@ -16,7 +22,7 @@
   <img src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/logo.png">
 </p>
 
-### OPEN PS2 Loader theme based on Amazon Prime Video UI
+OPEN PS2 Loader theme based on Amazon Prime Video UI
 
 ## Description
 
