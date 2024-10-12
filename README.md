@@ -21,7 +21,7 @@
   
 </div>
 
-**Pixel Prime** theme for OPEN PS2 Loader is inspired by the sleek and modern design of Amazon Prime Video, this theme integrates its latest redesigns , offering a clean, minimalist, and visually appealing interface.
+**Pixel Prime** theme for Open PS2 Loader is inspired by the sleek and modern design of Amazon Prime Video, this theme integrates its latest redesigns , offering a clean, minimalist, and visually appealing interface.
 
 
 ## Inspiration
