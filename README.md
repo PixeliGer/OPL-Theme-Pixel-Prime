@@ -1,9 +1,14 @@
 # Pixel-Prime Theme
 
+<p align="center">
+  <img src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/logo.png">
+</p>
+
 <div align = center>
   
   ![BUILT WITH](https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-cd6133?labelColor=ff793f&style=for-the-badge&logoColor=f0f0f0)
   [![][made-with]][gimp]
+  [![Github All Releases](https://img.shields.io/github/downloads/PixeliGer/OPL-Theme-Pixel-Prime/total?style=for-the-badge)]()
   
   [gimp]: https://www.gimp.org/
   [made-with]: https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto&label=Made%20With
@@ -16,17 +21,8 @@
   
 </div>
 
-## About
+**Pixel Prime** theme for OPEN PS2 Loader is inspired by the sleek and modern design of Amazon Prime Video, this theme integrates its latest redesigns , offering a clean, minimalist, and visually appealing interface.
 
-<p align="center">
-  <img src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/logo.png">
-</p>
-
-OPEN PS2 Loader theme based on Amazon Prime Video UI
-
-## Description
-
-The interface is based on the latest Amazon Prime Video redesigns, offering a clean and minimalist design.
 
 ## Inspiration
 
