@@ -16,7 +16,7 @@
   
   [![][download-pixel-prime]][pixel-prime]
   
-  [pixel-prime]: https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/releases  
+  [pixel-prime]: https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/releases/latest
   [download-pixel-prime]: https://img.shields.io/badge/Download%20🡇-35BF5C?style=for-the-badge
   
 </div>
