@@ -72,9 +72,6 @@
   
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot13.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot14.png">
-  
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot15.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot16.png">
 </p>
 
 
@@ -97,6 +94,7 @@ VMC/
 ```
 thm_Pixel-Prime
 thm_Pixel-Prime-Top
+thm_Pixel-Prime-Accent
 ```
 
 #### 3. Extract the ZIP file and move the theme folder to your THM directory.
