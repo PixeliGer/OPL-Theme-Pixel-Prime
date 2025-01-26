@@ -59,6 +59,25 @@
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot8.png">
 </p>
 
+#### NEW 🪩 - Topbar (No Logo)
+<p align="middle">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot9.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot10.png">
+</p>
+
+#### NEW 🪩 - **Accent** Variants
+<p align="middle">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot11.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot12.png">
+  
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot13.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot14.png">
+  
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot15.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot16.png">
+</p>
+
+
 ## 💾 Installation
 
 #### 1. Initially, ensure your OPL folder is structured like this on your Device or in your Shared folder
@@ -85,6 +104,7 @@ thm_Pixel-Prime-Top
 THM/
 ├─ thm_Pixel-Prime/
 ├─ thm_Pixel-Prime-Top/
+├─ thm_Pixel-Prime-Accent/
 ```
 
 > [!NOTE]  
