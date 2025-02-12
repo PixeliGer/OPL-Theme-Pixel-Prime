@@ -162,9 +162,9 @@ hdd0:/+OPL/THM/thm_Pixel-Prime/
 To enhance your experience with the theme, consider these recommendations:
 
 * Make sure you are using an updated or recent version of [Open Ps2 Loader 1.2](https://github.com/ps2homebrew/Open-PS2-Loader/releases/tag/latest)
-* Download the assets from the `ART` folder (Background Image, Cover, Logo, etc.) using the latest version of [OPL Manager](https://oplmanager.com/site/)
-* Use OPL Manager to edit the `CFG` files for each game, to correctly display the game information (Description, Developer, Release Date, etc.).
-* Use `MM/DD/YYYY` for the release date in the Information section for optimal display.
+* Download the assets for the `ART` folder (Background Image, Cover, Logo, etc.) using the latest version of [OPL Manager](https://oplmanager.com/site/)
+* Use **OPL Manager** to edit the `CFG` files for each game, to correctly display the game information (Description, Developer, Release Date, etc.).
+* Use `MM-DD-YYYY` format for the release date in the Information section for optimal display.
 * Enable Widescreen mode in OPL Settings for better text visibility.
 
 
