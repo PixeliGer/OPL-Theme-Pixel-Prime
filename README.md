@@ -30,7 +30,7 @@
   &ensp;[<kbd> <br> Installation <br> </kbd>](#-installation)&ensp;
   &ensp;[<kbd> <br> Features <br> </kbd>](#-features)&ensp;
   &ensp;[<kbd> <br> Screenshots <br> </kbd>](#-screenshots)&ensp;
-  &ensp;[<kbd> <br> Recomendations <br> </kbd>](#-recommendations)&ensp;
+  &ensp;[<kbd> <br> Recommendations <br> </kbd>](#-recommendations)&ensp;
   &ensp;[<kbd> <br> More Themes <br> </kbd>](https://pixeliger.github.io/opl-themes/)&ensp;
     
   <br>  
