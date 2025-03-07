@@ -24,6 +24,19 @@
 **Pixel Prime** theme for Open PS2 Loader is inspired by the sleek and modern design of Amazon Prime Video, this theme integrates its latest redesigns , offering a clean, minimalist, and visually appealing interface.
 
 
+<div align = middle>
+  <br>
+  
+  &ensp;[<kbd> <br> Installation <br> </kbd>](#-installation)&ensp;
+  &ensp;[<kbd> <br> Features <br> </kbd>](#-features)&ensp;
+  &ensp;[<kbd> <br> Screenshots <br> </kbd>](#-screenshots)&ensp;
+  &ensp;[<kbd> <br> Recomendations <br> </kbd>](#-recommendations)&ensp;
+  &ensp;[<kbd> <br> More Themes <br> </kbd>](https://pixeliger.github.io/opl-themes/)&ensp;
+    
+  <br>  
+</div>
+
+
 ## 🌱 Inspiration
 
 <p align="middle">
@@ -37,17 +50,17 @@
 * Two different styles, icons in the sidebar and top bar.
 * Interface with transparencies to show the background of the game.
 * Working with HD/Full-HD on 16:9 and 4:3
-* Compatible with the latest versions of [Open Ps2 Loader 1.2 Beta](https://github.com/ps2homebrew/Open-PS2-Loader/releases)
+* Compatible with the latest versions of [Open Ps2 Loader 1.2](https://github.com/ps2homebrew/Open-PS2-Loader/releases)
 
 ## 📸 Screenshots
 
 #### Sidebar Icons style
 
-<p align="middle">
+<p align="middle">  
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot1.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot2.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot3.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot4.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot4.png">  
 </p>
 
 #### Topbar style
@@ -59,13 +72,13 @@
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot8.png">
 </p>
 
-#### NEW 🪩 - Topbar (No Logo)
+#### NEW 🌟 - Topbar (No Logo)
 <p align="middle">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot9.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot10.png">
 </p>
 
-#### NEW 🪩 - **Accent** Variants
+#### NEW 🌟 - **Accent** Variants
 <p align="middle">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot11.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot12.png">
@@ -77,7 +90,7 @@
 
 ## 💾 Installation
 
-#### 1. Initially, ensure your OPL folder is structured like this on your Device or in your Shared folder
+**1. Initially, ensure your OPL folder is structured like this on your Device or in your Shared folder**
 ```
 APPS/
 ART/
@@ -90,14 +103,14 @@ THM/
 VMC/
 ```
 
-#### 2. Download one of the zip files that contains one of the Theme variants from the [Releases](https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/releases/latest) page or using the green DOWNLOAD button at the top, (make sure it's one with the `thm_` prefix in its name)
+**2. Download one of the zip files that contains one of the Theme variants from the [Releases](https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/releases/latest) page or using the green `DOWNLOAD` button at the top, (make sure it's one with the `thm_` prefix in its name)**
 ```
 thm_Pixel-Prime
 thm_Pixel-Prime-Top
 thm_Pixel-Prime-Accent
 ```
 
-#### 3. Extract the ZIP file and move the theme folder to your THM directory.
+**3. Extract the ZIP file and move the theme folder to your `THM` directory.**
 ```
 THM/
 ├─ thm_Pixel-Prime/
@@ -135,19 +148,23 @@ hdd0:/+OPL/THM/thm_Pixel-Prime/
 > [!IMPORTANT]  
 > Themes on any of these devices won’t display unless the device is enabled, so make sure to enable the device where your themes are stored through the OPL settings.
 
+> [!WARNING]
+> Avoid installing themes on the Memory Card, as their storage size can impact the proper functioning of the themes and cause issues with OPL.
 
-#### 4. Launch OPL, if it was already open, restart it.
-#### 5. Go to OPL Settings and then Display Settings. In the ‘Theme’ option, find and select your theme, then click `OK` to apply it.
+
+**4. Launch OPL, if it was already open, restart it.**
+
+**5. Go to OPL Settings and then `Display Settings`. In the 'Theme' option, find and select your theme, then click `OK` to apply it.**
 
 
 ## 💡 Recommendations
 
 To enhance your experience with the theme, consider these recommendations:
 
-* Make sure you are using an updated or recent version of [Open Ps2 Loader 1.2 Beta](https://github.com/ps2homebrew/Open-PS2-Loader/releases)
-* Download the assets from the `ART` folder (Background Image, Cover, Logo, etc.) using the latest version of [OPL Manager](https://oplmanager.com/site/)
-* Use OPL Manager to edit the `CFG` files for each game, to correctly display the game information.
+* Make sure you are using an updated or recent version of [Open Ps2 Loader 1.2](https://github.com/ps2homebrew/Open-PS2-Loader/releases/tag/latest)
+* Download the assets for the `ART` folder (Background Image, Cover, Logo, etc.) using the latest version of [OPL Manager](https://oplmanager.com/site/)
+* Use **OPL Manager** to edit the `CFG` files for each game, to correctly display the game information (Description, Developer, Release Date, etc.).
+* Use `MM-DD-YYYY` format for the release date in the Information section for optimal display.
 * Enable Widescreen mode in OPL Settings for better text visibility.
-* ⚠️ Avoid installing themes on the Memory Card, as their storage size can impact the proper functioning of the themes and cause issues with OPL.
 
 
