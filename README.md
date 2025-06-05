@@ -8,16 +8,16 @@
   
   ![BUILT WITH](https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-cd6133?labelColor=ff793f&style=for-the-badge&logoColor=f0f0f0)
   [![][made-with]][gimp]
+  ![PS2](https://img.shields.io/badge/ps2-007acc?style=for-the-badge&logo=playstation&logoColor=white&logoSize=auto&label=Made%20For)
   [![Github All Releases](https://img.shields.io/github/downloads/PixeliGer/OPL-Theme-Pixel-Prime/total?style=for-the-badge)]()
   
   [gimp]: https://www.gimp.org/
-  [made-with]: https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto&label=Made%20With
+  [made-with]: https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&logoSize=small&label=Made%20With
   
+  [![][download-opl-theme]][opl-theme]
   
-  [![][download-pixel-prime]][pixel-prime]
-  
-  [pixel-prime]: https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/releases/latest
-  [download-pixel-prime]: https://img.shields.io/badge/Download%20🡇-35BF5C?style=for-the-badge
+  [opl-theme]: https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/releases/latest
+  [download-opl-theme]: https://custom-icon-badges.demolab.com/badge/-Download-35BF5C?style=for-the-badge&logo=download&logoColor=white
   
 </div>
 
@@ -72,17 +72,20 @@
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot8.png">
 </p>
 
-#### NEW 🌟 - Topbar (No Logo)
+#### 🌟 NEW 🌟 - Topbar (No Logo)
 <p align="middle">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot9.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot10.png">
 </p>
 
-#### NEW 🌟 - **Accent** Variants
+#### 🌟 NEW 🌟 - **Accent** 
 <p align="middle">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot11.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot12.png">
-  
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot12.png">  
+</p>
+
+#### 🌟 NEW 🌟 - **Top Accent** 
+<p align="middle">  
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot13.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot14.png">
 </p>
