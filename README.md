@@ -72,24 +72,45 @@
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot8.png">
 </p>
 
-#### 🌟 NEW 🌟 - Topbar (No Logo)
+#### Topbar (No Logo)
 <p align="middle">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot9.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot10.png">
 </p>
 
-#### 🌟 NEW 🌟 - **Accent** 
+#### **Accent** 
 <p align="middle">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot11.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot12.png">  
 </p>
 
-#### 🌟 NEW 🌟 - **Top Accent** 
+#### **Top Accent** 
 <p align="middle">  
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot13.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot14.png">
 </p>
 
+####  🌟 NEW 🌟 - App Section
+<details>
+  <summary> Pixel Prime </summary>
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot15.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot16.png">
+</details>
+<details>
+  <summary> Pixel Prime Top </summary>
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot17.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot18.png">
+</details>
+<details>
+  <summary> Pixel Prime Accent </summary>
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot19.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot20.png">
+</details>
+<details>
+  <summary> Pixel Prime Top Accent</summary>
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot21.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot22.png">
+</details>
 
 ## 💾 Installation
 
@@ -167,7 +188,7 @@ To enhance your experience with the theme, consider these recommendations:
 * Make sure you are using an updated or recent version of [Open Ps2 Loader 1.2](https://github.com/ps2homebrew/Open-PS2-Loader/releases/tag/latest)
 * Download the assets for the `ART` folder (Background Image, Cover, Logo, etc.) using the latest version of [OPL Manager](https://oplmanager.com/site/)
 * Use **OPL Manager** to edit the `CFG` files for each game, to correctly display the game information (Description, Developer, Release Date, etc.).
-* Use `MM-DD-YYYY` format for the release date in the Information section for optimal display.
+* Use `DD-MM-YYYY` or `DD/MM/YYYY` format for the release date in the Information section for optimal display.
 * Enable Widescreen mode in OPL Settings for better text visibility.
 
 
