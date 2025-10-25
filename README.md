@@ -40,8 +40,8 @@
 ## 🌱 Inspiration
 
 <p align="middle">
-  <img width="48%" src="https://tvline.com/wp-content/uploads/2022/07/new-prime-video-ui-1.jpg">
-  <img width="48%" src="https://m.media-amazon.com/images/I/B1HVIxbegjL.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/inspiration/reference_1.png">
+  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/inspiration/reference_2.png">
 </p>
 
 ## ✨ Features
