@@ -1,30 +1,24 @@
 # Pixel-Prime Theme
 
 <p align="center">
-  <img src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/logo.png">
+  <img width="320" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/logo.png">
 </p>
 
-<div align = center>
+<div align="center">
   
   ![BUILT WITH](https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-cd6133?labelColor=ff793f&style=for-the-badge&logoColor=f0f0f0)
-  [![][made-with]][gimp]
-  ![PS2](https://img.shields.io/badge/ps2-007acc?style=for-the-badge&logo=playstation&logoColor=white&logoSize=auto&label=Made%20For)
-  [![Github All Releases](https://img.shields.io/github/downloads/PixeliGer/OPL-Theme-Pixel-Prime/total?style=for-the-badge)]()
-  
-  [gimp]: https://www.gimp.org/
-  [made-with]: https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&logoSize=small&label=Made%20With
-  
-  [![][download-opl-theme]][opl-theme]
-  
-  [opl-theme]: https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/releases/latest
-  [download-opl-theme]: https://custom-icon-badges.demolab.com/badge/-Download-35BF5C?style=for-the-badge&logo=download&logoColor=white
-  
+  [![Made With GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&label=Made%20With)](https://www.gimp.org/)
+  ![PS2](https://img.shields.io/badge/ps2-007acc?style=for-the-badge&logo=playstation&logoColor=white&label=Made%20For)
+  ![Downloads](https://img.shields.io/github/downloads/PixeliGer/OPL-Theme-Pixel-Prime/total?style=for-the-badge)
+
+  [![Download Theme](https://custom-icon-badges.demolab.com/badge/-Download-35BF5C?style=for-the-badge&logo=download&logoColor=white)](https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/releases/latest)
+
 </div>
 
-**Pixel Prime** theme for Open PS2 Loader is inspired by the sleek and modern design of Amazon Prime Video, this theme integrates its latest redesigns , offering a clean, minimalist, and visually appealing interface.
+**Pixel Prime** theme for Open PS2 Loader is inspired by the sleek and modern design of Amazon Prime Video. This theme integrates its latest redesigns, offering a clean, minimalist, and visually appealing interface.
 
 
-<div align = middle>
+<div align="center">
   <br>
   
   &ensp;[<kbd> <br> Installation <br> </kbd>](#-installation)&ensp;
@@ -39,53 +33,57 @@
 
 ## 🌱 Inspiration
 
-<p align="middle">
+<p align="center">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/inspiration/reference_1.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/inspiration/reference_2.png">
 </p>
 
 ## ✨ Features
 
-* Minimalist navigation bars
-* Two different styles, icons in the sidebar and top bar.
-* Interface with transparencies to show the background of the game.
-* Working with HD/Full-HD on 16:9 and 4:3
-* Compatible with the latest versions of [Open Ps2 Loader 1.2](https://github.com/ps2homebrew/Open-PS2-Loader/releases)
+* 🎨 **Minimalist Design** - Clean, modern interface
+* 🔀 **Multiple Layouts** - Choose between sidebar or top bar navigation
+* 🎮 **Game Background Display** - Transparent elements showcase game artwork
+* 📺 **Resolution Support** - Optimized for HD/Full-HD on both 16:9 and 4:3 aspect ratios
+* ✅ **OPL 1.2+ Compatible** - Supports multiple OPL variants:
+    - [Open PS2 Loader](https://github.com/ps2homebrew/Open-PS2-Loader/releases)
+    - [OPL MMCE](https://github.com/ps2-mmce/Open-PS2-Loader)
+    - [OPL MMCE (rickgaiser)](https://github.com/rickgaiser/Open-PS2-Loader)
+* 🎭 **Theme Variants** - Sidebar, Top Bar, Accent options
 
 ## 📸 Screenshots
 
 #### Sidebar Icons style
 
-<p align="middle">  
+<p align="center">  
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot1.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot2.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot3.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot4.png">  
 </p>
 
-#### Topbar style
+#### Top Bar Style
 
-<p align="middle">
+<p align="center">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot5.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot6.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot7.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot8.png">
 </p>
 
-#### Topbar (No Logo)
-<p align="middle">
+#### Top Bar Style (No Logo)
+<p align="center">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot9.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot10.png">
 </p>
 
-#### **Accent** 
-<p align="middle">
+#### Accent 
+<p align="center">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot11.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot12.png">  
 </p>
 
-#### **Top Accent** 
-<p align="middle">  
+#### Top Accent
+<p align="center">  
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot13.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot14.png">
 </p>
@@ -93,23 +91,31 @@
 ####  🌟 NEW 🌟 - App Section
 <details>
   <summary> Pixel Prime </summary>
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot15.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot16.png">
+  <p align="center">
+    <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot15.png">
+    <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot16.png">
+  </p>
 </details>
 <details>
   <summary> Pixel Prime Top </summary>
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot17.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot18.png">
+   <p align="center">
+     <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot17.png">
+     <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot18.png">
+   </p>
 </details>
 <details>
   <summary> Pixel Prime Accent </summary>
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot19.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot20.png">
+   <p align="center">
+     <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot19.png">
+     <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot20.png">
+   </p>  
 </details>
 <details>
   <summary> Pixel Prime Top Accent</summary>
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot21.png">
-  <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot22.png">
+   <p align="center">
+     <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot21.png">
+     <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/blob/main/assets/screenshots/screenshot22.png">
+   </p>
 </details>
 
 ## 💾 Installation
@@ -178,7 +184,13 @@ hdd0:/+OPL/THM/thm_Pixel-Prime/
 
 **4. Launch OPL, if it was already open, restart it.**
 
-**5. Go to OPL Settings and then `Display Settings`. In the 'Theme' option, find and select your theme, then click `OK` to apply it.**
+**5. Apply the Theme:** 
+  - Press <kbd>Start</kbd> to open `OPL Settings`
+  - Navigate to `Display Settings`
+  - Select the `Theme` option
+  - Using the <kbd>Up</kbd> and <kbd>Down</kbd> buttons on the D-Pad, find and select the `Pixel-Prime` theme from the list
+  - Press on `OK` to apply the Theme
+  - The theme will load immediately and take effect
 
 
 ## 💡 Recommendations
@@ -191,4 +203,6 @@ To enhance your experience with the theme, consider these recommendations:
 * Use `DD-MM-YYYY` or `DD/MM/YYYY` format for the release date in the Information section for optimal display.
 * Enable Widescreen mode in OPL Settings for better text visibility.
 
+---
 
+**Made with ❤️ for the PS2 Community**
