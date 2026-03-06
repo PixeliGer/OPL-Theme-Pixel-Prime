@@ -9,7 +9,7 @@
   ![BUILT WITH](https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-cd6133?labelColor=ff793f&style=for-the-badge&logoColor=f0f0f0)
   [![Made With GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&label=Made%20With)](https://www.gimp.org/)
   ![PS2](https://img.shields.io/badge/ps2-007acc?style=for-the-badge&logo=playstation&logoColor=white&label=Made%20For)
-  ![Downloads](https://img.shields.io/github/downloads/PixeliGer/OPL-Theme-Pixel-Prime/total?style=for-the-badge)
+  ![Downloads](https://img.shields.io/github/downloads/PixeliGer/OPL-Theme-Pixel-Prime/total?style=for-the-badge&logo=github&label=downloads&labelColor=000000)
 
   [![Download Theme](https://custom-icon-badges.demolab.com/badge/-Download-35BF5C?style=for-the-badge&logo=download&logoColor=white)](https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/releases/latest)
 
